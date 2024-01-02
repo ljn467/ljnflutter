@@ -1,0 +1,6 @@
+com/lvjn/mis_app/MainActivity.java
+ com.lvjn.mis_app.MainActivity
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/lvjn/mis_app/BuildConfig.java
+ com.lvjn.mis_app.BuildConfig
